@@ -5,8 +5,8 @@ We used a variety of machine learning algorithms to train my model, including XG
 <p>Our best model achieved an accuracy of 85% on the test set. This repository is still under development, but I plan to add more information and documentation in the future.</p>
 
 # The repository is organized as follows:
-<p><b>data/</b>: contains the dataset used for the challenge.</p>
-<p><b>models/</b>: contains the code for the machine learning models.</p>
+*<p><b>data/</b>: contains the dataset used for the challenge.</p>
+*<p><b>models/</b>: contains the code for the machine learning models.</p>
 <p><b>notebooks/</b>: contains the Jupyter notebooks used to develop and evaluate the models.</p>
 <p><b>README.md</b> this file, which provides an overview of the repository.</p>
 
